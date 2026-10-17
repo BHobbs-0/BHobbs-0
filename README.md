@@ -11,7 +11,7 @@
 I've spent almost ten years in social housing, moving from customer service into the complaints team and then into data. Day to day I build reporting and analysis with SQL and Power BI, including regulatory returns such as the Statistical Data Return. Outside work I'm building up my Python and statistics skills through projects on public housing data.
 
 ### 📊 What I'm working on
-[What drives tenant satisfaction in social housing?](https://github.com/BHobbs-0/tsm-sector-analysis)
+**[What drives tenant satisfaction in social housing?](https://github.com/BHobbs-0/tsm-sector-analysis)**
 An analysis of the Regulator of Social Housing's Tenant Satisfaction Measures across England's housing associations, using:
 - 📈 Multiple regression with robust standard errors and cross-validation
 - 🌍 Area deprivation, survey method and stock profile checks
