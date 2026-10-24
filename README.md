@@ -10,14 +10,16 @@
 ### 🏠 About me
 I've spent almost ten years in social housing, moving from customer service into the complaints team and then into data. Day to day I build reporting and analysis with SQL and Power BI, including regulatory returns such as the Statistical Data Return. Outside work I'm building up my Python and statistics skills through projects on public housing data.
 
-### 📊 What I'm working on
+### 📊 Projects
+**[Which social homes will miss EPC C?](https://github.com/BHobbs-0/social-housing-energy-risk)**
+Predicts, explains and forecasts which of England's 3 million social rented homes will miss the 2030 EPC band C target, using over 4 million Energy Performance Certificates. About one in five is likely to be below C today, and at the recent pace around 310,000 would still miss the target in 2030.
+
+![gradient boosting](https://img.shields.io/badge/gradient_boosting-2E7D5B?style=flat-square) ![partial dependence](https://img.shields.io/badge/partial_dependence-2E7D5B?style=flat-square) ![forecasting](https://img.shields.io/badge/forecasting-2E7D5B?style=flat-square) ![national-scale data](https://img.shields.io/badge/national--scale_data-2E7D5B?style=flat-square)
+
 **[What drives tenant satisfaction in social housing?](https://github.com/BHobbs-0/tsm-sector-analysis)**
-An analysis of the Regulator of Social Housing's Tenant Satisfaction Measures across England's housing associations, using:
-- 📈 Multiple regression with robust standard errors and cross-validation
-- 🌍 Area deprivation, survey method and stock profile checks
-- 🔁 Year-on-year change and regression to the mean
-- 🤖 Machine learning comparisons (random forest, gradient boosting)
-- 🎯 Key driver analysis to find what matters most to tenants
+Explains why tenant satisfaction differs between 353 social landlords, using the regulator's Tenant Satisfaction Measures. Escalated complaints have the strongest link with low satisfaction, and being listened to is the biggest opportunity for landlords.
+
+![regression](https://img.shields.io/badge/regression-5A4FCF?style=flat-square) ![cross-validation](https://img.shields.io/badge/cross--validation-5A4FCF?style=flat-square) ![regression to the mean](https://img.shields.io/badge/regression_to_the_mean-5A4FCF?style=flat-square) ![dominance analysis](https://img.shields.io/badge/dominance_analysis-5A4FCF?style=flat-square)
 
 ### 🛠️ Tools
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)](https://learn.microsoft.com/en-us/sql/t-sql/language-reference)
@@ -27,6 +29,7 @@ An analysis of the Regulator of Social Housing's Tenant Satisfaction Measures ac
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![statsmodels](https://img.shields.io/badge/statsmodels-4B8BBE?style=flat-square)](https://www.statsmodels.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)](https://www.microsoft.com/en-gb/microsoft-365/excel)
 
